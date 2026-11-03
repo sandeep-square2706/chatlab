@@ -1,0 +1,65 @@
+
+
+Experiment 1 — Exam-ready answer
+
+Aim
+
+To understand the foundational concepts of Prompt Engineering and practice creating basic prompts for different NLP tasks such as text completion, sentiment analysis, and information extraction.
+
+Procedure
+
+1. Open an LLM interface such as ChatGPT, Gemini, Claude, or a local model.
+2. Enter each prompt into the model.
+3. Record the generated output.
+4. Change the prompt parameters such as temperature and top-p, if available.
+5. Observe and compare the outputs.
+6. Analyze how prompt phrasing affects the model output.
+
+Prompt 1 – Simple Text Completion
+
+The sky is
+
+Output:
+
+blue and vast, stretching endlessly above the horizon. Clouds drift
+lazily across the sky, casting soft shadows on the earth below.
+
+Prompt 2 – Specific Instruction Prompt
+
+Explain the concept of photosynthesis in simple terms for a 10-year-old student.
+
+Output:
+
+Photosynthesis is how plants make their own food. Plants use sunlight,
+water from the soil, and carbon dioxide from the air to create sugar
+(food) and oxygen.
+
+Prompt 3 – Sentiment Classification
+
+Classify the text into neutral, negative, or positive.
+
+Text: I think the food was okay.
+
+Sentiment:
+
+Output:
+
+Neutral
+
+Prompt 4 – Information Extraction
+
+Extract the names and dates from the following sentence:
+
+"Marie Curie was born on November 7, 1867, and discovered radium in 1898."
+
+Output:
+
+Names: Marie Curie
+Dates: November 7, 1867 | 1898
+
+Result
+
+The experiment was successfully performed. It was observed that clear and specific prompts produce more relevant and accurate outputs. Prompt Engineering enables users to guide LLM behavior through instructions, context, input data, and output indicators without retraining the model.
+
+
+---
